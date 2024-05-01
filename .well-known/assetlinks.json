@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.flutter_webauthn",
+      "sha256_cert_fingerprints": [
+        "7F:8F:64:6D:71:15:6A:BE:F7:35:C2:EC:FF:AE:45:96:6F:C2:9D:29:26:01:72:5D:73:9A:B5:04:E2:AC:20:CB"
+      ]
+    }
+  }
+]
